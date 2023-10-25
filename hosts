@@ -1,0 +1,8 @@
+#: Xiaomi trackers
+app.chat.global.xiaomi.net
+resolver.msg.global.xiaomi.net
+api.ad.intl.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+
+#: Google trackers
+firebase-settings.crashlytics.com
