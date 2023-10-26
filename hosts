@@ -3,6 +3,11 @@ app.chat.global.xiaomi.net
 resolver.msg.global.xiaomi.net
 api.ad.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
+data.mistat.intl.xiaomi.com
+api.g.micloud.xiaomi.net
 
 #: Google trackers
 firebase-settings.crashlytics.com
+app-measurement.com
+firebaseinstallations.googleapis.com
+googleads.g.doubleclick.net
