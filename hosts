@@ -5,9 +5,17 @@ api.ad.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 data.mistat.intl.xiaomi.com
 api.g.micloud.xiaomi.net
+us2.find.api.micloud.xiaomi.net
 
 #: Google trackers
 firebase-settings.crashlytics.com
 app-measurement.com
 firebaseinstallations.googleapis.com
 googleads.g.doubleclick.net
+auditrecording-pa.googleapis.com
+userlocation.googleapis.com
+s.youtube.com
+
+#: Facebook-Instagram trackers
+graph.facebook.com
+scontent.cdninstagram.com
