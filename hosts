@@ -6,6 +6,10 @@ sdkconfig.ad.intl.xiaomi.com
 data.mistat.intl.xiaomi.com
 api.g.micloud.xiaomi.net
 us2.find.api.micloud.xiaomi.net
+sg-idm.api.io.mi.com
+g.galleryapi.micloud.xiaomi.net
+api.gallery.intl.miui.com
+sgp-push.api.intl.miui.com
 
 #: Google trackers
 firebase-settings.crashlytics.com
@@ -15,7 +19,30 @@ googleads.g.doubleclick.net
 auditrecording-pa.googleapis.com
 userlocation.googleapis.com
 s.youtube.com
+crashlyticsreports-pa.googleapis.com
 
 #: Facebook-Instagram trackers
 graph.facebook.com
 scontent.cdninstagram.com
+
+#: Opera trackers
+pps-token.op-mobile.opera.com
+operamini-behavior-sub.osp.opera.software
+mini5-1.opera-mini.net
+
+#: ----- SHIT SITES ----- :#
+#: IMO
+imotech.tech
+imolive2.com
+imoim.net
+#: BIG
+bigolive.tv
+bigo.sg
+#: Likee
+likee.video
+#: VidMate
+vidmateapp.store
+
+#: ----- UNKNOWN SITES ----- :#
+kzhi.tech
+piojm.tech
