@@ -23,12 +23,14 @@ crashlyticsreports-pa.googleapis.com
 
 #: Facebook-Instagram trackers
 graph.facebook.com
+b-graph.facebook.com
 scontent.cdninstagram.com
 
 #: Opera trackers
 pps-token.op-mobile.opera.com
 operamini-behavior-sub.osp.opera.software
 mini5-1.opera-mini.net
+mini5.opera-mini.net
 
 #: ----- SHIT SITES ----- :#
 #: IMO
@@ -42,7 +44,11 @@ bigo.sg
 likee.video
 #: VidMate
 vidmateapp.store
+#: TikTok
+tiktokcdn.com
+tiktokv.com
 
 #: ----- UNKNOWN SITES ----- :#
 kzhi.tech
 piojm.tech
+xzcs3zlph.com
